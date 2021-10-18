@@ -7,7 +7,7 @@
     responsive: [
       { end: 300, size: 1 },
       { start: 150, end: 300, size: 2 },
-      { size: 6 },
+      { size: 4 },
     ],
   }"
 >

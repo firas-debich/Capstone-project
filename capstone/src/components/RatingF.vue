@@ -7,7 +7,7 @@
           color="orange"
           small
         ></v-rating>
-        <div class="float-left mt-6">
+        <div class="float-left mt-12">
           <a href="#" class="underline"> Read all reviews</a>
         </div>
         <div class="mar">CATEGORY</div>
@@ -30,7 +30,7 @@ export default {
 
 <style lang="scss">
 .mar {
-  margin-top: 59px;
+  margin-top: 80px;
   margin-left: 10px;
 }
 .htt {
